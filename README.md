@@ -1,4 +1,7 @@
-This package contains a MATLAB implementation of the method described in [1] and results from this method. The code was developed by modifying the L1/L2 blind deconvolution method [2] and employs the SPG solver minConf_SPG, available at [3].
+Correcting Camera Shake by Incremental Sparse Approximation
+=================================================
+
+This package contains a MATLAB implementation of the method described in [1] and results from this method. The code was developed by modifying the L1/L2 blind deconvolution method [2] and employs the SPG solver `minConf_SPG`, available at [3].
 
 (c) Paul Shearer, 2012. Permission to use, copy, and modify this code is given for academic research purposes only. Commercial use without permission is prohibited.
 
